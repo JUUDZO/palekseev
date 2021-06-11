@@ -1,7 +1,6 @@
 /*
  * inverse_bmp [--debug] [file1.bmp] [file2.bmp] . . 
  * 
- * Author: Travis Banken
  * 
  * Description:
  * This Program takes in bitmap images, img.bmp, as program arguments and 
